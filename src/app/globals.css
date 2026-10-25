@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background: #0f1115;
+  color: #e6e6e6;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
